@@ -10,7 +10,6 @@ import XCTest
 final class SwiftUIAPITests: XCTestCase {
     let viewModel = LoginViewModel()
     override func setUpWithError() throws {
-        let viewModel = LoginViewModel()
     }
     override func tearDownWithError() throws {
     }
