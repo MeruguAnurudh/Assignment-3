@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "a9f91489ede8018217c31d668a120858c03f80936d3568f3df4c47fd01de8614"
+build_start_time: [1695268455, 489000000]
+build_end_time: [1695268455, 598752000]
+inputs:
+  "/Users/meruguanurudh/Desktop/Assignment-3/SwiftUIAPI/SwiftUIAPI/App/SwiftUIAPIApp.swift": !dirty [1694407363, 180583477]
+  "/Users/meruguanurudh/Desktop/Assignment-3/SwiftUIAPI/SwiftUIAPI/Components/InputView.swift": !dirty [1694593212, 133973360]
+  "/Users/meruguanurudh/Desktop/Assignment-3/SwiftUIAPI/SwiftUIAPI/Core/Root/ContentView.swift": !dirty [1694407784, 3606915]
+  "/Users/meruguanurudh/Desktop/Assignment-3/SwiftUIAPI/SwiftUIAPI/Core/View/ForgotPasswordView.swift": !dirty [1694407770, 207149506]
+  "/Users/meruguanurudh/Desktop/Assignment-3/SwiftUIAPI/SwiftUIAPI/Core/View/LoginView.swift": !dirty [1694593308, 127853632]
+  "/Users/meruguanurudh/Desktop/Assignment-3/SwiftUIAPI/SwiftUIAPI/Core/View/ProfileView.swift": !dirty [1694407750, 979605794]
+  "/Users/meruguanurudh/Desktop/Assignment-3/SwiftUIAPI/SwiftUIAPI/Core/ViewModel/LoginViewModel.swift": !dirty [1694497842, 375822902]
+  "/Users/meruguanurudh/Desktop/Assignment-3/SwiftUIAPI/SwiftUIAPI/Model/TokenResponse.swift": !dirty [1695182901, 388554297]
